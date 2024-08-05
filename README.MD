@@ -1,6 +1,6 @@
 # Multi-Modal RAG Pipeline on Images and Text Locally
 
-![RAG Pipeline Banner](RAG.jpg)
+<img src="RAG.jpg" alt="RAG Pipeline Banner" width="400" height="200"/>
 
 This repository contains a Multi-Modal Retrieval-Augmented Generation (RAG) Pipeline that processes both images and text locally. It leverages advanced NLP and computer vision techniques to create a powerful information retrieval and generation system.
 
@@ -62,13 +62,13 @@ graph TD
 Here are some example queries and their results:
 
 1. "Who is Naim?"
-   ![Naim Query Result](Naim.png)
+   <img src="Naim.png" alt="Naim" width="400" height="200"/>
 
 2. "What is Ai?"
-   ![Ai Query Result](ai.png)
+   <img src="ai.png" alt="Ai" width="400" height="200"/>
 
 3. "Where is Space?"
-   ![Space Query Result](space.png)
+   <img src="space.png" alt="Space" width="400" height="200"/>
 
 ## 🛠️ Configuration
 
