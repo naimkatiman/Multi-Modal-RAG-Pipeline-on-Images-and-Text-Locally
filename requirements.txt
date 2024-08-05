@@ -1,0 +1,4 @@
+streamlit
+llama-index
+qdrant-client
+Pillow
