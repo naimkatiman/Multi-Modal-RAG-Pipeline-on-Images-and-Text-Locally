@@ -31,7 +31,7 @@ This repository contains a Multi-Modal Retrieval-Augmented Generation (RAG) Pipe
 
 4. Run the pipeline:
    ```python
-   python main.py
+   python myRAG.ipynb
    ```
 
 ## 📚 How It Works
