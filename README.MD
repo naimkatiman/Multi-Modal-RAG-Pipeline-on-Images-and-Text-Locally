@@ -1,6 +1,6 @@
 # Multi-Modal RAG Pipeline on Images and Text Locally
 
-![RAG Pipeline Banner](D:\Anaconda\Multi-Modal-RAG-Pipeline-on-Images-and-Text-Locally\RAG.jpg)
+![RAG Pipeline Banner](RAG.jpg)
 
 This repository contains a Multi-Modal Retrieval-Augmented Generation (RAG) Pipeline that processes both images and text locally. It leverages advanced NLP and computer vision techniques to create a powerful information retrieval and generation system.
 
@@ -62,13 +62,13 @@ graph TD
 Here are some example queries and their results:
 
 1. "Who is Naim?"
-   ![Naim Query Result](D:\Anaconda\Multi-Modal-RAG-Pipeline-on-Images-and-Text-Locally\Naim.png)
+   ![Naim Query Result](Naim.png)
 
 2. "What is space?"
-   ![Space Query Result](D:\Anaconda\Multi-Modal-RAG-Pipeline-on-Images-and-Text-Locally\space.png)
+   ![Space Query Result](space.png)
 
 3. "Where is AI?"
-   ![AI Query Result](D:\Anaconda\Multi-Modal-RAG-Pipeline-on-Images-and-Text-Locally\ai.png)
+   ![AI Query Result](ai.png)
 
 ## 🛠️ Configuration
 
@@ -105,3 +105,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   Made with ❤️ by <a href="https://github.com/naimkatiman">Naim Katiman</a>
 </div>
+
+
