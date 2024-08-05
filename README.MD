@@ -64,11 +64,11 @@ Here are some example queries and their results:
 1. "Who is Naim?"
    ![Naim Query Result](Naim.png)
 
-2. "What is space?"
-   ![Space Query Result](space.png)
+2. "What is Ai?"
+   ![Ai Query Result](ai.png)
 
-3. "Where is AI?"
-   ![AI Query Result](ai.png)
+3. "Where is Space?"
+   ![Space Query Result](space.png)
 
 ## 🛠️ Configuration
 
